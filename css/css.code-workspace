@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../OneDrive/Рабочий стол/cv-main (1)/cv-main/css"
+		},
+		{
+			"path": "../../../../OneDrive/Рабочий стол/cv-main (1)/cv-main/img"
+		},
+		{
+			"path": "../../../../OneDrive/Рабочий стол/cv-main (1)/cv-main/video"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css",
+		"liveServer.settings.port": 5501
+	}
+}
